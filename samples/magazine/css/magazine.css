@@ -1,6 +1,7 @@
 body{
 	overflow:hidden;
 	background-color:#fcfcfc;
+	background-color:#ff0077;
 	margin:0;
 	padding:0;
 }
@@ -9,7 +10,7 @@ body{
 	position:absolute;
 	top:50%;
 	left:50%;
-	width:922px;
+	width:92px;
 	height:600px;
 	margin:auto;
 }

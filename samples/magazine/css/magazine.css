@@ -2,6 +2,9 @@ body{
 	overflow:hidden;
 	background-color:#fcfcfc;
 	background-color:#ff0077;
+	background-image: url('../pics/bg.jpg');
+	background-position: center center;
+	background-size: cover;
 	margin:0;
 	padding:0;
 }

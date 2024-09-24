@@ -5,7 +5,7 @@ turn.js
 
 Turn.js is a plugin for jQuery that adds a beautiful transition similar to real pages in a book or magazine. It works in all modern browsers including touch devices.
 
-
+ 
 #### Usage
 
 **CSS code:**
